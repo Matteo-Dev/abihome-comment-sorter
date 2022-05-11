@@ -1,0 +1,14 @@
+{
+  "name": "comment-sorter",
+  "version": "1.0.0",
+  "description": "sorts abihome comments according to certain featuers",
+  "main": "sorter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
